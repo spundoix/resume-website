@@ -1,0 +1,29 @@
+body{
+    background-color: #061E29;
+}
+
+h1{
+    color: #1D546D;
+    text-align: center;
+}
+
+h2{
+    color: #5F9598;
+}
+
+h3{
+    color: #F3F4F4;
+}
+
+ul, li{
+    color: #F3F4F4;
+}
+
+p{
+    color: #F3F4F4;
+}
+
+#menu_links{
+    text-align: right;
+    color: #F3F4F4;
+}

@@ -3457,7 +3457,7 @@ input, select, textarea {
 	#banner {
 		background-attachment: fixed;
 		background-color: purple;
-		background-image: url("../../images/background.jpg");
+		background-image: url("/resume-website/images/background.jpg");
 		background-position: center center;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);

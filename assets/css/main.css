@@ -33,6 +33,11 @@ body {
 	line-height: 1;
 }
 
+.about_me{
+    text-align: center;
+    line-height: 2rem;
+}
+
 ol, ul {
 	list-style: none;
 }
@@ -3451,8 +3456,8 @@ input, select, textarea {
 
 	#banner {
 		background-attachment: fixed;
-		background-color: #272833;
-		background-image: url("../../images/banner.jpg");
+		background-color: purple;
+		background-image: url("../../images/background.jpg");
 		background-position: center center;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
